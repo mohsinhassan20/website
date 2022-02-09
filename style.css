@@ -683,6 +683,17 @@ align-items: center;
     box-sizing: border-box;
 
 }
+.footer__link__items h2{
+    margin-bottom: 16px;
+    color: #fff;
+}
+
+.footer__link__items a
+{
+color: #fff;
+margin-bottom: 0.5rem;
+transition: 0.3 ease-out;
+}
 
 
 
